@@ -1,0 +1,6 @@
+{
+    "token": "YOUR-BOT-TOKEN",
+    "clientId": "YOUR-BOT-ID",
+    "guildId": "DEVELOPER-SERVER-ID",
+    "ownerId": ["YOUR-ID"]
+}
